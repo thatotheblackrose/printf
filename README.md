@@ -1,1 +1,4 @@
-PRINTF (teamwork) thatotheblackrose & Eby88 git accounts
+PRINTF (teamwork)
+Eby88@github.com
+&
+thatotheblackrose@github.com
